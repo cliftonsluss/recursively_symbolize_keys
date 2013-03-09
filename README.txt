@@ -1,2 +1,2 @@
-method for Hash to recursively symbolize has keys
+method for Hash to recursively symbolize hash keys
 
